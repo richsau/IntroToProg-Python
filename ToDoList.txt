@@ -1,0 +1,3 @@
+Clean Desk,Low
+Mow Lawn,High
+Clean Kitchen,High
